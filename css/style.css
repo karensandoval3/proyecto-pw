@@ -56,6 +56,28 @@ header nav ul li a {
     background-position: right;
 }
 
+.informacion{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.informacionDiv h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.informacionDiv p{
+    margin-top: 20px;
+    text-align: center;
+}
+.informacionDiv img{
+    margin-left: 50px;
+}
+
+
+
+
+
 .ofertas {
     margin-top: 40px;
 }
